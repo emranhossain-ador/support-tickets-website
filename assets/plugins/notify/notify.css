@@ -1,0 +1,54 @@
+.notify__alert  .msg_body {
+    display: flex;
+    flex-direction: column;
+}
+
+.notify__alert .msg_body b {
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.notify__alert  .icon {
+    font-size: 30px;
+}
+
+.notify__alert.alert {
+    padding: 0 !important;
+    width: 330px;
+    border-radius: 5px;
+    border: 0px solid;
+    box-shadow: 0 5px 20px #bebebe;
+    overflow: hidden;
+}
+
+.notify__alert .msg__area{
+    padding: 0.75rem 1.25rem;
+}
+
+.progress {
+    display: -ms-flexbox;
+    display: flex;
+    height: 7px !important;
+    overflow: hidden;
+    line-height: 0;
+    font-size: 0.75rem;
+    background-color: #e9ecef73 !important;
+    border-radius: 0 !important;
+    box-shadow: none;
+}
+
+.alert-success{
+    background: #0dcd94 !important;
+    color: #fff !important;
+}
+
+.alert-danger {
+  color: #fff !important;
+  background-color: #dc3545 !important;
+  border-color: #dc3545 !important;
+}
+
+.notify__alert .progress-bar{
+    background: #fff !important;
+    transition: all .3s ease-in-out !important;
+}
