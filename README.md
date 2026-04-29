@@ -22,6 +22,12 @@ A modern Support Ticket Management System built with PHP CodeIgniter 3, Bootstra
 - Database: MySQL
 
 
+### 📸 Screenshots
+
+| Dashboard | Tickets | Chat |
+|----------|--------|------|
+
+
 
 ### ⭐ Show Your Support
 
