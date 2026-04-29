@@ -6,10 +6,10 @@ A modern Support Ticket Management System built with PHP CodeIgniter 3, Bootstra
 
 
 ✨ Features
--👤 User, Agents & Admin dashboard
--🎫 Create, manage, and track support tickets
--💬 Real-time chat using Pusher
--📊 Ticket status workflow (Open / Pending / Closed)
--🔔 Instant message notifications
--📱 Fully responsive UI (Bootstrap 4)
--🔐 Secure authentication system
+- 👤 User, Agents & Admin dashboard
+- 🎫 Create, manage, and track support tickets
+- 💬 Real-time chat using Pusher
+- 📊 Ticket status workflow (Open / Pending / Closed)
+- 🔔 Instant message notifications
+- 📱 Fully responsive UI (Bootstrap 4)
+- 🔐 Secure authentication system
