@@ -13,3 +13,16 @@ A modern Support Ticket Management System built with PHP CodeIgniter 3, Bootstra
 - 🔔 Instant message notifications
 - 📱 Fully responsive UI (Bootstrap 4)
 - 🔐 Secure authentication system
+
+
+## 🧰 Tech Stack
+- Backend: PHP (CodeIgniter 3)
+- Frontend: Bootstrap 4, JavaScript, jQuery
+- Real-time: Pusher
+- Database: MySQL
+
+
+
+# ⭐ Show Your Support
+
+If you like this project, please ⭐ the repository.
