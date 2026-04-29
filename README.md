@@ -5,7 +5,7 @@
 A modern Support Ticket Management System built with PHP CodeIgniter 3, Bootstrap 4, JavaScript, and jQuery, featuring real-time chat using Pusher for fast and efficient customer support communication.
 
 
-## ✨ Features
+### ✨ Features
 - 👤 User, Agents & Admin dashboard
 - 🎫 Create, manage, and track support tickets
 - 💬 Real-time chat using Pusher
@@ -23,6 +23,6 @@ A modern Support Ticket Management System built with PHP CodeIgniter 3, Bootstra
 
 
 
-# ⭐ Show Your Support
+### ⭐ Show Your Support
 
 If you like this project, please ⭐ the repository.
