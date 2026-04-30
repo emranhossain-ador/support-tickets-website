@@ -25,7 +25,7 @@ A modern Support Ticket Management System built with PHP CodeIgniter 3, Bootstra
 ### 📸 Screenshots
 
 | Hero Area | Dashboard | Tickets | Chat | Knowledge | Create Ticket | Ticket Details |
-|----------|--------|------|
+|----------|--------|------|------|------|------|------|
 
 ![Dashboard](assets/screenshots/hero-area.png)
 
